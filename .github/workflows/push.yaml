@@ -1,4 +1,4 @@
-name: golang-pipeline
+name: workflow-lesson
 on: push
 jobs:
   test:
